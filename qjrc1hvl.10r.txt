@@ -1,0 +1,10 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch etbs-mobile
+# Changes to be committed:
+#	modified:   grails-app/assets/javascripts/jquery/redraw.js
+#	modified:   grails-app/assets/stylesheets/styles.css
+#	modified:   grails-app/views/phoneBillDetails/indexMobile.gsp
+#
+
