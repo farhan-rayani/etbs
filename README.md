@@ -8,9 +8,9 @@ Just install jdk 8 and grails 2.5 and start running the project. Make sure teh d
 
 ### Prerequisites
 
-JDK 1.8
-Grails 2.5
-MYSQL (locally)
+* **JDK 1.8** 
+* **Grails 2.5** 
+* **MYSQL** 
 
 ## Running the application
 
